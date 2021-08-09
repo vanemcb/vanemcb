@@ -4,7 +4,7 @@
 
 <br/>
 
- [![Github](https://img.shields.io/github/followers/vanemcb?label=Follow&style=social)](https://github.com/CharalambosIoannou)
+ ![](https://visitor-badge.laobi.icu/badge?page_id=vanemcb.vanemcb) [![Github](https://img.shields.io/github/followers/vanemcb?label=Follow&style=social)](https://github.com/CharalambosIoannou)
 
 ## 👩🏽‍🦱 About me:
 

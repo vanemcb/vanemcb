@@ -49,7 +49,7 @@
 
 <p align="left">  
 <a href="https://www.linkedin.com/in/vanessa-mususué-castro-579624158"> <img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/> </a>
-<a href="https://https://twitter.com/vane_musu"> <img src="https://img.icons8.com/fluency/48/000000/twitter.png"/> </a>  
+<a href="https://twitter.com/vane_musu"> <img src="https://img.icons8.com/fluency/48/000000/twitter.png"/> </a>  
 </p>
 
 

@@ -1,6 +1,6 @@
 # <div align="center">Hi there 👋🏽, I'm Vane 🎼</div>
 
-#### <div align="center">👩🏽‍💻 _Software Development Student_ 👩🏽‍💻</div>
+#### <div align="center">👩🏽‍💻 _Software Developer_ 👩🏽‍💻</div>
 
 <br/>
 
@@ -8,7 +8,7 @@
 
 ## 👩🏽‍🦱 About me:
 
-- 🔭 I’m currently studying on Holberton School
+- 🔭 I’m currently studying FullStack Development on Holberton School
 
 - 🌱 I’m currently learning JavaScript, Python and SQL
 

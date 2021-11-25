@@ -8,7 +8,7 @@
 
 ## 👩🏽‍🦱 About me:
 
-- 🔭 I’m currently studying FullStack Development on Holberton School
+- 🔭 I’m currently studying Full-Stack Web Development on Holberton School
 
 - 🌱 I’m currently learning JavaScript, Python and SQL
 
